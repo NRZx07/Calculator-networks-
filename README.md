@@ -1,4 +1,4 @@
-# Calculator-networks
+
 # 🧮 UDP Calculator Server & Client (Java)
 
 This project demonstrates a **UDP-based Calculator** using Java's `DatagramSocket`. It allows clients to send simple math expressions to a server, and the server responds with the result.
